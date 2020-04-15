@@ -3,7 +3,9 @@ title: Ronaldo B Ferreyra - Fullstack Developer
 email: rbferreyra@yahoo.com
 url: "https://rbferreyra.github.io" # the base hostname & protocol for your site
 description: "Website pessoal - Contatos com mídias sociais"
-author: "Ronaldo B Ferreyra"
+
+your-name: Ronaldo B Ferreyra
+your-title: Fullstack Developer
 
 # Social settings
 facebook_url: https://facebook.com/rbferreyra1
