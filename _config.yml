@@ -1,25 +1,18 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Ronaldo B Ferreyra - Fullstack Developer
+email: rbferreyra@yahoo.com
 url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Ronaldo B Ferreyra
+your-title: Fullstack Developer
 
 # Social settings
-500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://facebook.com/rbferreyra1
+github_url: https://github.com/rbferreyra
+instagram_url: https://instagram.com/rbferreyra
+linkedin_url: https://www.linkedin.com/in/rbferreyra
+twitter_url: https://twitter.com/rbferreyra
 
 # Build settings
 markdown: kramdown
